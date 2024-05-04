@@ -1,0 +1,11 @@
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\libtinystr-f86ac5faeba7bc16.rmeta: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\macros.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\ascii.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\asciibyte.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\error.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\int_ops.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\unvalidated.rs
+
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\tinystr-f86ac5faeba7bc16.d: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\macros.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\ascii.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\asciibyte.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\error.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\int_ops.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\unvalidated.rs
+
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\lib.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\macros.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\ascii.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\asciibyte.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\error.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\int_ops.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\tinystr-0.7.5\src\unvalidated.rs:

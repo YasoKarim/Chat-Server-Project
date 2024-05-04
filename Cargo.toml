@@ -1,0 +1,19 @@
+[package]
+name = "Chat_Server_Project"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+async-std = "1.10.0"
+futures = "0.3"
+zstd-sys = "2.0.9"
+druid = "0.8.3"
+
+sqlx = { version = "0.7.3", features = ["runtime-async-std","postgres"] }
+[[bin]]
+name = "server"
+path = "server/src/main.rs"
+
+

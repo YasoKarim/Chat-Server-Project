@@ -1,0 +1,10 @@
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\libsqlformat-c30e748a2fae1a25.rmeta: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\formatter.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\indentation.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\inline_block.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\params.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\tokenizer.rs
+
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\sqlformat-c30e748a2fae1a25.d: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\formatter.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\indentation.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\inline_block.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\params.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\tokenizer.rs
+
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\lib.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\formatter.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\indentation.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\inline_block.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\params.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlformat-0.2.3\src\tokenizer.rs:

@@ -1,0 +1,11 @@
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\libsqlx-54ec625ac2e88dfe.rmeta: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\any\mod.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\macros\mod.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\ty_match.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\lib.md C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\macros/test.md C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\any\install_drivers_note.md
+
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\sqlx-54ec625ac2e88dfe.d: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\any\mod.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\macros\mod.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\ty_match.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\lib.md C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\macros/test.md C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\any\install_drivers_note.md
+
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\lib.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\any\mod.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\macros\mod.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\ty_match.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\lib.md:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\macros/test.md:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\sqlx-0.7.4\src\any\install_drivers_note.md:

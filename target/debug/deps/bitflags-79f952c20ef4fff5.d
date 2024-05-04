@@ -1,0 +1,11 @@
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\libbitflags-79f952c20ef4fff5.rmeta: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs
+
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\bitflags-79f952c20ef4fff5.d: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs
+
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\lib.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\iter.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\parser.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\traits.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\public.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\internal.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitflags-2.5.0\src\external.rs:

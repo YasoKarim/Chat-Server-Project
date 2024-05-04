@@ -1,0 +1,10 @@
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\libkeyboard_types-69eba4a63a365387.rmeta: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\code.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\key.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\location.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\modifiers.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\shortcuts.rs
+
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\keyboard_types-69eba4a63a365387.d: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\code.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\key.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\location.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\modifiers.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\shortcuts.rs
+
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\lib.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\code.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\key.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\location.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\modifiers.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\keyboard-types-0.6.2\src\shortcuts.rs:

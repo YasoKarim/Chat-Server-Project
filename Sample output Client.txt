@@ -1,0 +1,12 @@
+BOB client
+
+bob
+Enter the message: clark hello
+Enter the message: Received from server: from clark: are you ok
+
+Clark Client
+
+clark
+Enter the message: Received from server: from bob: hello
+Received from server:
+bob are you ok

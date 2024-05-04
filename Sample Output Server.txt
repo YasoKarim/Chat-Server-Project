@@ -1,0 +1,18 @@
+Accepting from: 127.0.0.1:59616
+Client connected with name: bob
+Handling NewPeer event: name=bob
+Accepting from: 127.0.0.1:59619
+Client connected with name: clark
+Handling NewPeer event: name=clark
+Received message from bob: clark hello
+Name: bob
+Destination: ["clark"]
+Message: hello
+Handling Message event: from=bob, to=["clark"], msg=hello
+Sent message to client clark: from bob: hello
+Received message from clark: bob are you okName: clark
+Destination: ["bob"]
+Message: are you ok
+Handling Message event: from=clark, to=["bob"], msg=are you ok
+Sent message to client bob: from clark: are you ok
+Message successfully inserted into the database

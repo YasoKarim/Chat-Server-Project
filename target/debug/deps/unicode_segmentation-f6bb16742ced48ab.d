@@ -1,0 +1,9 @@
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\libunicode_segmentation-f6bb16742ced48ab.rmeta: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\grapheme.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\sentence.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\word.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\tables.rs
+
+D:\Computer Science\Term 7\Structure programming language\projectt\Chat_server\target\debug\deps\unicode_segmentation-f6bb16742ced48ab.d: C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\lib.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\grapheme.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\sentence.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\word.rs C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\tables.rs
+
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\lib.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\grapheme.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\sentence.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\word.rs:
+C:\Users\Wind\.cargo\registry\src\index.crates.io-6f17d22bba15001f\unicode-segmentation-1.11.0\src\tables.rs:
